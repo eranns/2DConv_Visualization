@@ -24,9 +24,18 @@ in `run.py` you have an example of running the currently avilable implementation
 
 ### 2D Convolution
 
-**7x7 Image, 2x2 Kernel , Padding=0 , strides = 1**
+**Regular Example ( Image 7x7 , Kernel 2x2 , Padding = 0 , Strides = 1)**
+
 
 ![7x7 image with 2x2 kernel padding=0 strides=1](https://github.com/eranns/IP_visualize/blob/master/examples/7x7_2x2_padding0_strides1.gif)
+
+**Strides Example ( Image 7x7 , Kernel 2x2 , Padding = 0 , Strides = 2)**
+
+![7x7 image with 2x2 kernel padding=0 strides=1](https://github.com/eranns/IP_visualize/blob/master/examples/7x7_2x2_padding0_strides2.gif)
+
+**Zero Padding Example ( Image 7x7 , Kernel 2x2 , Padding = 1 , Strides = 1)**
+
+![7x7 image with 2x2 kernel padding=0 strides=1](https://github.com/eranns/IP_visualize/blob/master/examples/7x7_2x2_padding=1_strides=1.gif)
 
 
 
