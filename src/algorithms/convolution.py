@@ -9,11 +9,12 @@ import os
 import tempfile
 
 '''
-2D Convolution representation class extending Stateful.
-image - image path
+2D Convolution representation class extending Stateful and GIFable abstract classes.
+image - image as 2d / 3d array
+kernel - the kernel to use in the convolution , if not defined it will generate by the given sizes
 kernel_size - tuple of x,y sizes of the kernel
 stride - number of strides
-padding - true / false
+padding - number of paddings for each side
 filter - if defined input as 2d array
 '''
 
