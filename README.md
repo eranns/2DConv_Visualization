@@ -24,7 +24,7 @@ in `run.py` you have an example of running the currently avilable implementation
 
 ### 2D Convolution
 
-** 7x7 Image, 2x2 Kernel , Padding=0 , strides = 1 **
+**7x7 Image, 2x2 Kernel , Padding=0 , strides = 1**
 
 ![7x7 image with 2x2 kernel padding=0 strides=1](https://github.com/eranns/IP_visualize/blob/master/examples/7x7_2x2_padding0_strides1.gif)
 
