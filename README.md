@@ -1,4 +1,4 @@
-# IP_visualize
+# 2D Conv Visualization
 Repository for visualizing Image processing tools and algorithms.
 
 After running it will output a GIF of each step in the process
