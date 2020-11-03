@@ -1,10 +1,7 @@
 # 2D Conv Visualization
-Repository for visualizing Image processing tools and algorithms.
+Repisitory to visualize 2D Convolution.
 
 After running it will output a GIF of each step in the process
-
-currently avilable visualizations : 
-* 2D Convolution
 
 
 ## Getting Started
